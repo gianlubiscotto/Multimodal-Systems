@@ -4,8 +4,8 @@
   <Patch>
     <Properties>
       <PropertySet name="gui-mdi">
-        <Property name="Private.ZoomFactor">0.6</Property>
-        <Property name="Private.ScrollPos">28.3333333333333;271.666666666667</Property>
+        <Property name="Private.ZoomFactor">0.8</Property>
+        <Property name="Private.ScrollPos">183.75;953.75</Property>
         <Property name="Private.RunLevel">1</Property>
       </PropertySet>
       <PropertySet name="subpatch">
@@ -17,7 +17,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">360;460</Property>
-            <Property name="Private.ZOrder">141</Property>
+            <Property name="Private.ZOrder">144</Property>
             <Property name="Private.ObjID">1</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -31,7 +31,7 @@
         </Properties>
         <Parameters>
           <Parameter catalog="kernel" class-id="string" description="Filepath of media file. An empty filename is allowed; the corresponding video output is black, the corresponding audio output is silence" design-time="1" enabled="1" group_index="100" id="media_filename" name="Filename" run-time="1">
-            <Value>..\..\..\EyesWeb XMI 5.7.0.0 x64\Patches\Tutorial\Media\Micro-dance.avi</Value>
+            <Value>..\Documents\EyesWeb XMI 5.7.0.0 x64\Patches\Tutorial\Media\Micro-dance.avi</Value>
             <Domain/>
             <Layout catalog="kernel" class-id="filename">Video Files (*.avi,*.mpg,*.mpeg,*.mp4,*.mpv,*.3gp)|*.avi;*.mpg;*.mpeg;*.mp4;*.mpv;*.3gp|All files (*.*)|*.*||</Layout>
             <InitInfo/>
@@ -132,7 +132,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1100;210</Property>
-            <Property name="Private.ZOrder">139</Property>
+            <Property name="Private.ZOrder">142</Property>
             <Property name="Private.ObjID">2</Property>
             <Property name="Appearance.Size">370;280</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -194,7 +194,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">600;450</Property>
-            <Property name="Private.ZOrder">138</Property>
+            <Property name="Private.ZOrder">141</Property>
             <Property name="Private.ObjID">3</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -1564,7 +1564,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">360;410</Property>
-            <Property name="Private.ZOrder">142</Property>
+            <Property name="Private.ZOrder">145</Property>
             <Property name="Private.ObjID">4</Property>
             <Property name="Appearance.Size">234;32</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -1604,7 +1604,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">900;320</Property>
-            <Property name="Private.ZOrder">134</Property>
+            <Property name="Private.ZOrder">137</Property>
             <Property name="Private.ObjID">5</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -1662,7 +1662,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">460;1080</Property>
-            <Property name="Private.ZOrder">130</Property>
+            <Property name="Private.ZOrder">133</Property>
             <Property name="Private.ObjID">6</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -3859,7 +3859,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">850;1070</Property>
-            <Property name="Private.ZOrder">129</Property>
+            <Property name="Private.ZOrder">132</Property>
             <Property name="Private.ObjID">7</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -3907,7 +3907,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">670;1580</Property>
-            <Property name="Private.ZOrder">126</Property>
+            <Property name="Private.ZOrder">129</Property>
             <Property name="Private.ObjID">8</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -3943,7 +3943,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">820;1570</Property>
-            <Property name="Private.ZOrder">124</Property>
+            <Property name="Private.ZOrder">127</Property>
             <Property name="Private.ObjID">9</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -3990,7 +3990,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">880;900</Property>
-            <Property name="Private.ZOrder">122</Property>
+            <Property name="Private.ZOrder">125</Property>
             <Property name="Private.ObjID">10</Property>
             <Property name="Appearance.Size">32;32</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4032,7 +4032,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">970;930</Property>
-            <Property name="Private.ZOrder">121</Property>
+            <Property name="Private.ZOrder">124</Property>
             <Property name="Private.ObjID">11</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4128,7 +4128,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">970;1030</Property>
-            <Property name="Private.ZOrder">120</Property>
+            <Property name="Private.ZOrder">123</Property>
             <Property name="Private.ObjID">12</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4164,7 +4164,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1110;990</Property>
-            <Property name="Private.ZOrder">119</Property>
+            <Property name="Private.ZOrder">122</Property>
             <Property name="Private.ObjID">13</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4211,7 +4211,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1460;620</Property>
-            <Property name="Private.ZOrder">118</Property>
+            <Property name="Private.ZOrder">121</Property>
             <Property name="Private.ObjID">14</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4258,7 +4258,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">980;1660</Property>
-            <Property name="Private.ZOrder">115</Property>
+            <Property name="Private.ZOrder">118</Property>
             <Property name="Private.ObjID">15</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4288,11 +4288,11 @@
         </Outputs>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="system" class-id="GlImageDisplay" id="3626" label="DisplayOpenGL_1" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.37037037037037035">
+      <Block active="1" catalog="system" class-id="GlImageDisplay" id="3626" label="DisplayOpenGL_1" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.37326388888888884">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1210;770</Property>
-            <Property name="Private.ZOrder">114</Property>
+            <Property name="Private.ZOrder">117</Property>
             <Property name="Private.ObjID">16</Property>
             <Property name="Appearance.Size">340;230</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4356,11 +4356,11 @@
         <Outputs/>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="system" class-id="GlImageDisplay" id="3726" label="DisplayOpenGL_3" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.44270833333333337">
+      <Block active="1" catalog="system" class-id="GlImageDisplay" id="3726" label="DisplayOpenGL_3" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.44270833333333331">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1610;540</Property>
-            <Property name="Private.ZOrder">113</Property>
+            <Property name="Private.ZOrder">116</Property>
             <Property name="Private.ObjID">17</Property>
             <Property name="Appearance.Size">380;270</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4424,11 +4424,11 @@
         <Outputs/>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="system" class-id="GlImageDisplay" id="3826" label="DisplayOpenGL_4" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.26620370370370372">
+      <Block active="1" catalog="system" class-id="GlImageDisplay" id="3826" label="DisplayOpenGL_4" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.26909722222222221">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">620;1670</Property>
-            <Property name="Private.ZOrder">112</Property>
+            <Property name="Private.ZOrder">115</Property>
             <Property name="Private.ObjID">18</Property>
             <Property name="Appearance.Size">246;170</Property>
             <Property name="Appearance.Orientation">3</Property>
@@ -4496,7 +4496,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1410;1610</Property>
-            <Property name="Private.ZOrder">111</Property>
+            <Property name="Private.ZOrder">114</Property>
             <Property name="Private.ObjID">19</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4539,11 +4539,11 @@
         </Outputs>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="system" class-id="GlImageDisplay" id="3979" label="DisplayOpenGL_5" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.45717592592592599">
+      <Block active="1" catalog="system" class-id="GlImageDisplay" id="3979" label="DisplayOpenGL_5" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.46006944444444448">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1560;1290</Property>
-            <Property name="Private.ZOrder">110</Property>
+            <Property name="Private.ZOrder">113</Property>
             <Property name="Private.ObjID">20</Property>
             <Property name="Appearance.Size">400;280</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4611,7 +4611,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1620;1020</Property>
-            <Property name="Private.ZOrder">109</Property>
+            <Property name="Private.ZOrder">112</Property>
             <Property name="Private.ObjID">21</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4660,11 +4660,11 @@
         </Outputs>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="system" class-id="GlImageDisplay" id="4134" label="DisplayOpenGL_2" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.72048611111111116">
+      <Block active="1" catalog="system" class-id="GlImageDisplay" id="4134" label="DisplayOpenGL_2" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.72048611111111105">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1740;830</Property>
-            <Property name="Private.ZOrder">108</Property>
+            <Property name="Private.ZOrder">111</Property>
             <Property name="Private.ObjID">22</Property>
             <Property name="Appearance.Size">570;431</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4732,7 +4732,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">650;1890</Property>
-            <Property name="Private.ZOrder">105</Property>
+            <Property name="Private.ZOrder">108</Property>
             <Property name="Private.ObjID">23</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4809,7 +4809,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">820;1910</Property>
-            <Property name="Private.ZOrder">104</Property>
+            <Property name="Private.ZOrder">107</Property>
             <Property name="Private.ObjID">24</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -4887,11 +4887,11 @@
         </Outputs>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="system" class-id="scalar_value_vs_time_graph_display" id="4376" label="ScalarValueVsTimeDisplay_1" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="Motion Index" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.85069444444444442">
+      <Block active="1" catalog="system" class-id="scalar_value_vs_time_graph_display" id="4376" label="ScalarValueVsTimeDisplay_1" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="Motion Index" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.85503472222222221">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1040;2110</Property>
-            <Property name="Private.ZOrder">101</Property>
+            <Property name="Private.ZOrder">104</Property>
             <Property name="Private.ObjID">25</Property>
             <Property name="Appearance.Size">334;262</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5241,7 +5241,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">880;2120</Property>
-            <Property name="Private.ZOrder">100</Property>
+            <Property name="Private.ZOrder">103</Property>
             <Property name="Private.ObjID">26</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">3</Property>
@@ -5267,7 +5267,7 @@
             <InitInfo/>
           </Parameter>
           <Parameter catalog="kernel" class-id="double" description="Specifies the value to be assigned to the datatype when its value is under the threshold. This value is used only if Operation Type is set to lower or both." design-time="1" enabled="1" group_index="0" id="lower_value" name="Lower value" run-time="1">
-            <Value>0.93195772716790604</Value>
+            <Value>3.6248411897973245</Value>
             <Domain/>
             <Layout/>
             <InitInfo/>
@@ -5297,11 +5297,11 @@
         </Outputs>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="system" class-id="GlImageDisplay" id="4656" label="DisplayOpenGL_6" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.3356481481481482">
+      <Block active="1" catalog="system" class-id="GlImageDisplay" id="4656" label="DisplayOpenGL_6" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.33854166666666663">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1120;1070</Property>
-            <Property name="Private.ZOrder">99</Property>
+            <Property name="Private.ZOrder">102</Property>
             <Property name="Private.ObjID">27</Property>
             <Property name="Appearance.Size">310;210</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5369,7 +5369,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1050;1910</Property>
-            <Property name="Private.ZOrder">98</Property>
+            <Property name="Private.ZOrder">101</Property>
             <Property name="Private.ObjID">28</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5445,7 +5445,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1120;1560</Property>
-            <Property name="Private.ZOrder">97</Property>
+            <Property name="Private.ZOrder">100</Property>
             <Property name="Private.ObjID">29</Property>
             <Property name="Appearance.Size">192;32</Property>
             <Property name="Appearance.Orientation">3</Property>
@@ -5463,7 +5463,7 @@
         </Properties>
         <Parameters>
           <Parameter catalog="kernel" class-id="double" description="Value" design-time="1" enabled="1" group_index="0" id="value" name="Value" run-time="1">
-            <Value>0.16775239089022309</Value>
+            <Value>0.65247141416351839</Value>
             <Domain/>
             <Layout/>
             <InitInfo/>
@@ -5485,7 +5485,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">690;2020</Property>
-            <Property name="Private.ZOrder">96</Property>
+            <Property name="Private.ZOrder">99</Property>
             <Property name="Private.ObjID">30</Property>
             <Property name="Appearance.Size">192;32</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5525,7 +5525,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1090;1660</Property>
-            <Property name="Private.ZOrder">95</Property>
+            <Property name="Private.ZOrder">98</Property>
             <Property name="Private.ObjID">31</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5593,7 +5593,7 @@
             <InitInfo/>
           </Parameter>
           <Parameter catalog="kernel" class-id="double" description="The value for the H parameter (if it is not mapped from the input matrix)." design-time="1" enabled="1" group_index="0" id="H" name="H" run-time="1">
-            <Value>0.16775239089022309</Value>
+            <Value>0.65247141416351839</Value>
             <Domain catalog="kernel" class-id="double-domain">0;1;360;2</Domain>
             <Layout/>
             <InitInfo/>
@@ -5627,11 +5627,11 @@
         </Outputs>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="base" class-id="Display" id="5002" label="ScalarDisplay_2" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="ScalarDisplay" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.99326599326599319">
+      <Block active="1" catalog="base" class-id="Display" id="5002" label="ScalarDisplay_2" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="ScalarDisplay" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="1.0101010101010099">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1150;1820</Property>
-            <Property name="Private.ZOrder">93</Property>
+            <Property name="Private.ZOrder">96</Property>
             <Property name="Private.ObjID">32</Property>
             <Property name="Appearance.Size">115;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5675,7 +5675,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">660;1080</Property>
-            <Property name="Private.ZOrder">92</Property>
+            <Property name="Private.ZOrder">95</Property>
             <Property name="Private.ObjID">33</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5713,11 +5713,11 @@
         </Outputs>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="base" class-id="Display" id="5138" label="ScalarDisplay_3" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="ScalarDisplay" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.99326599326599319">
+      <Block active="1" catalog="base" class-id="Display" id="5138" label="ScalarDisplay_3" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="ScalarDisplay" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="1.0101010101010099">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">850;2310</Property>
-            <Property name="Private.ZOrder">89</Property>
+            <Property name="Private.ZOrder">92</Property>
             <Property name="Private.ObjID">34</Property>
             <Property name="Appearance.Size">115;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5761,7 +5761,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">700;510</Property>
-            <Property name="Private.ZOrder">88</Property>
+            <Property name="Private.ZOrder">91</Property>
             <Property name="Private.ObjID">35</Property>
             <Property name="Appearance.Size">400;280</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5819,11 +5819,11 @@
         <Outputs/>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="base" class-id="Display" id="5319" label="ScalarDisplay_4" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="ScalarDisplay" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.99326599326599319">
+      <Block active="1" catalog="base" class-id="Display" id="5319" label="ScalarDisplay_4" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="ScalarDisplay" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="1.0101010101010099">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">920;1820</Property>
-            <Property name="Private.ZOrder">53</Property>
+            <Property name="Private.ZOrder">56</Property>
             <Property name="Private.ObjID">36</Property>
             <Property name="Appearance.Size">115;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5867,7 +5867,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">450;1310</Property>
-            <Property name="Private.ZOrder">37</Property>
+            <Property name="Private.ZOrder">40</Property>
             <Property name="Private.ObjID">37</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5920,7 +5920,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">650;1320</Property>
-            <Property name="Private.ZOrder">33</Property>
+            <Property name="Private.ZOrder">36</Property>
             <Property name="Private.ObjID">38</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5962,7 +5962,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1440;2070</Property>
-            <Property name="Private.ZOrder">32</Property>
+            <Property name="Private.ZOrder">35</Property>
             <Property name="Private.ObjID">39</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -5982,7 +5982,7 @@
             <InitInfo/>
           </Parameter>
           <Parameter catalog="kernel" class-id="double" description="Specifies the lower threshold. This value is used only if Operation Type is set to lower or both. If operation is set to &quot;Same lower and upper threshold&quot;, then this value is used for both the lower and upper threshold, and the &quot;upper threshold&quot; value is ignored." design-time="1" enabled="1" group_index="0" id="lower_threshold" name="Lower/common threshold" run-time="1">
-            <Value>0.63333349999999999</Value>
+            <Value>0.76724150000000002</Value>
             <Domain/>
             <Layout/>
             <InitInfo/>
@@ -5994,7 +5994,7 @@
             <InitInfo/>
           </Parameter>
           <Parameter catalog="kernel" class-id="double" description="Specifies the upper threshold. This value is used only if Operation Type is set to upper or both." design-time="1" enabled="1" group_index="0" id="upper_threshold" name="Upper threshold" run-time="1">
-            <Value>0.63333349999999999</Value>
+            <Value>0.76724150000000002</Value>
             <Domain/>
             <Layout/>
             <InitInfo/>
@@ -6022,7 +6022,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1200;2020</Property>
-            <Property name="Private.ZOrder">30</Property>
+            <Property name="Private.ZOrder">33</Property>
             <Property name="Private.ObjID">40</Property>
             <Property name="Appearance.Size">192;32</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -6040,7 +6040,7 @@
         </Properties>
         <Parameters>
           <Parameter catalog="kernel" class-id="double" description="Value" design-time="1" enabled="1" group_index="0" id="value" name="Value" run-time="1">
-            <Value>0.63333349999999999</Value>
+            <Value>0.76724150000000002</Value>
             <Domain/>
             <Layout/>
             <InitInfo/>
@@ -6058,11 +6058,11 @@
         </Outputs>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="system" class-id="scalar_value_vs_time_graph_display" id="5615" label="ScalarValueVsTimeDisplay_2" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="Motion Index" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.85069444444444442">
+      <Block active="1" catalog="system" class-id="scalar_value_vs_time_graph_display" id="5615" label="ScalarValueVsTimeDisplay_2" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="Motion Index" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.85503472222222221">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1650;2130</Property>
-            <Property name="Private.ZOrder">25</Property>
+            <Property name="Private.ZOrder">28</Property>
             <Property name="Private.ObjID">41</Property>
             <Property name="Appearance.Size">334;262</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -6412,7 +6412,7 @@
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">710;1240</Property>
-            <Property name="Private.ZOrder">23</Property>
+            <Property name="Private.ZOrder">26</Property>
             <Property name="Private.ObjID">42</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -6456,11 +6456,11 @@
         </Outputs>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="system" class-id="GlImageDisplay" id="5892" label="DisplayOpenGL_7" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.35300925925925924">
+      <Block active="1" catalog="system" class-id="GlImageDisplay" id="5892" label="DisplayOpenGL_7" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.35590277777777773">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Appearance.Pos">1130;1290</Property>
-            <Property name="Private.ZOrder">20</Property>
+            <Property name="Private.ZOrder">23</Property>
             <Property name="Private.ObjID">43</Property>
             <Property name="Appearance.Size">300;220</Property>
             <Property name="Appearance.Orientation">1</Property>
@@ -6524,92 +6524,12 @@
         <Outputs/>
         <PrivateData/>
       </Block>
-      <Block active="1" catalog="base" class-id="Trigger" id="5992" label="Trigger_1" log_info="2" run_level="1" sync-in_mode="1">
+      <Block active="1" catalog="kernel" class-id="monadic_logic_op" id="6051" label="MonadicLogical_3" log_info="2" run_level="1" sync-in_mode="1">
         <Properties>
           <PropertySet name="gui-mdi">
-            <Property name="Appearance.Pos">380;1460</Property>
-            <Property name="Private.ZOrder">17</Property>
-            <Property name="Private.ObjID">44</Property>
-            <Property name="Appearance.Size">64;64</Property>
-            <Property name="Appearance.Orientation">3</Property>
-            <Property name="Private.ExportedParams">Parameter;</Property>
-            <Property name="Private.Selected">0</Property>
-            <Property name="Private.ParamsOrder">kernel::active_status;kernel::active_trigger;kernel::run_level;kernel::sync_in_mode;kernel::log_level;Parameter;PAR_ICONCHANGE_ID</Property>
-            <Property name="Private.FullPath">Trigger (FlowAndControlStructures)</Property>
-            <Property name="DisplaySyncInVisible">0</Property>
-            <Property name="DisplaySyncOutVisible">0</Property>
-          </PropertySet>
-        </Properties>
-        <Parameters>
-          <Parameter catalog="kernel" class-id="trigger" description="Trigger close parameter description" design-time="1" enabled="1" group_index="0" id="Parameter" name="Trigger close parameter" run-time="1">
-            <Value></Value>
-            <Domain/>
-            <Layout/>
-            <InitInfo/>
-          </Parameter>
-          <Parameter catalog="kernel" class-id="bool" description="Specify whether the block icon changes at runtime. If yes and the block is actived very quickly the EyesWeb GUI can freeze." design-time="1" enabled="1" group_index="0" id="PAR_ICONCHANGE_ID" name="Change icon" run-time="1">
-            <Value>1</Value>
-            <Domain/>
-            <Layout/>
-            <InitInfo/>
-          </Parameter>
-        </Parameters>
-        <Inputs>
-          <Input catalog="kernel" class-id="generic_datatype" description="Trigger input description" group_index="0" id="Input" name="Trigger name" read-write="0" required_for_execution="1" required_for_initialization="1">
-            <RequiredInterfaces/>
-          </Input>
-        </Inputs>
-        <Outputs>
-          <Output catalog="kernel" class-id="generic_datatype" description="Trigger Output description" group_index="0" id="Output" inherited-id="" inplace-id="" name="Trigger Output name"/>
-        </Outputs>
-        <PrivateData/>
-      </Block>
-      <Block active="1" catalog="base" class-id="Trigger" id="6041" label="Trigger_2" log_info="2" run_level="1" sync-in_mode="1">
-        <Properties>
-          <PropertySet name="gui-mdi">
-            <Property name="Appearance.Pos">560;1320</Property>
-            <Property name="Private.ZOrder">16</Property>
+            <Property name="Appearance.Pos">400;1200</Property>
+            <Property name="Private.ZOrder">14</Property>
             <Property name="Private.ObjID">45</Property>
-            <Property name="Appearance.Size">64;64</Property>
-            <Property name="Appearance.Orientation">1</Property>
-            <Property name="Private.ExportedParams">Parameter;</Property>
-            <Property name="Private.Selected">0</Property>
-            <Property name="Private.ParamsOrder">kernel::active_status;kernel::active_trigger;kernel::run_level;kernel::sync_in_mode;kernel::log_level;Parameter;PAR_ICONCHANGE_ID</Property>
-            <Property name="Private.FullPath">Trigger (FlowAndControlStructures)</Property>
-            <Property name="DisplaySyncInVisible">0</Property>
-            <Property name="DisplaySyncOutVisible">0</Property>
-          </PropertySet>
-        </Properties>
-        <Parameters>
-          <Parameter catalog="kernel" class-id="trigger" description="Trigger close parameter description" design-time="1" enabled="1" group_index="0" id="Parameter" name="Trigger close parameter" run-time="1">
-            <Value></Value>
-            <Domain/>
-            <Layout/>
-            <InitInfo/>
-          </Parameter>
-          <Parameter catalog="kernel" class-id="bool" description="Specify whether the block icon changes at runtime. If yes and the block is actived very quickly the EyesWeb GUI can freeze." design-time="1" enabled="1" group_index="0" id="PAR_ICONCHANGE_ID" name="Change icon" run-time="1">
-            <Value>1</Value>
-            <Domain/>
-            <Layout/>
-            <InitInfo/>
-          </Parameter>
-        </Parameters>
-        <Inputs>
-          <Input catalog="kernel" class-id="generic_datatype" description="Trigger input description" group_index="0" id="Input" name="Trigger name" read-write="0" required_for_execution="1" required_for_initialization="1">
-            <RequiredInterfaces/>
-          </Input>
-        </Inputs>
-        <Outputs>
-          <Output catalog="kernel" class-id="generic_datatype" description="Trigger Output description" group_index="0" id="Output" inherited-id="" inplace-id="" name="Trigger Output name"/>
-        </Outputs>
-        <PrivateData/>
-      </Block>
-      <Block active="1" catalog="kernel" class-id="monadic_logic_op" id="6090" label="MonadicLogical_3" log_info="2" run_level="1" sync-in_mode="1">
-        <Properties>
-          <PropertySet name="gui-mdi">
-            <Property name="Appearance.Pos">430;1190</Property>
-            <Property name="Private.ZOrder">4</Property>
-            <Property name="Private.ObjID">46</Property>
             <Property name="Appearance.Size">64;64</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Private.ExportedParams"></Property>
@@ -6640,85 +6560,313 @@
         </Outputs>
         <PrivateData/>
       </Block>
+      <Block active="1" catalog="system" class-id="GlImageDisplay" id="6151" label="DisplayOpenGL_9" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.26909722222222221">
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Appearance.Pos">110;1500</Property>
+            <Property name="Private.ZOrder">12</Property>
+            <Property name="Private.ObjID">47</Property>
+            <Property name="Appearance.Size">250;170</Property>
+            <Property name="Appearance.Orientation">1</Property>
+            <Property name="Private.ExportedParams"></Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ParamsOrder">kernel::active_status;kernel::active_trigger;kernel::run_level;kernel::sync_in_mode;kernel::log_level;QueueAlgo;QueueMaxSize;QueuePurge;ParamOutputQueueStatus;ParamOutputMouseMode;BgFlip;filtering;kernel::window_title;kernel::window_rect_x;kernel::window_rect_y;kernel::window_rect_width;kernel::window_rect_height;kernel::window_docked;kernel::window_full_screen;kernel::window_full_screen_monitor_index;kernel::window_zoom;kernel::window_keep_aspect_ratio;kernel::window_horizontal_scroll_pos;kernel::window_vertical_scroll_pos;kernel::window_title_visible;kernel::window_refresh_rate_mode;kernel::window_refresh_rate_min_interval;kernel::window_refresh_rate_max_frequency;kernel::fit_mode</Property>
+            <Property name="Private.FullPath">DisplayOpenGL (ImageAndVideo.Output)</Property>
+            <Property name="DisplaySyncInVisible">0</Property>
+            <Property name="DisplaySyncOutVisible">0</Property>
+          </PropertySet>
+        </Properties>
+        <Parameters>
+          <Parameter catalog="kernel" class-id="int" description="To respect the image presentation time this display use a ordered queue. This parameter selects the algorithm used to manage the presentation time ('ignore', 'respect'). When 'ignore' is selected the input image is displayed immediately (bypassing the queue), otherwise the image is stored into the queue and is displayed when the clock time matches the presentation time." design-time="1" enabled="1" group_index="0" id="QueueAlgo" name="Presentation time" run-time="1">
+            <Value>0</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;2;2</Domain>
+            <Layout catalog="kernel" class-id="combo">ignore the presentation time;respect the presentation time</Layout>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="int" description="This parameter set the maximum number of images stored into the internal queue." design-time="1" enabled="1" group_index="0" id="QueueMaxSize" name="Queue max size" run-time="1">
+            <Value>25</Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="trigger" description="Drop all images contained into the internal queue." design-time="1" enabled="1" group_index="0" id="QueuePurge" name="Purge queue" run-time="1">
+            <Value></Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="bool" description="Output the internal queue status (number of image into the queue, number of image skipped in the last execution cycle)." design-time="1" enabled="1" group_index="0" id="ParamOutputQueueStatus" name="Output queue status" run-time="0">
+            <Value>0</Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="int" description="This parameter enable, disable and select the Output mode of mouse click position." design-time="1" enabled="1" group_index="0" id="ParamOutputMouseMode" name="Mouse handling" run-time="0">
+            <Value>0</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;4;2</Domain>
+            <Layout catalog="kernel" class-id="combo">none;output position;output click position;output selection rectangle</Layout>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="int" description="Flip image over Y (flipping), X (flopping) or both axis." design-time="1" enabled="1" group_index="0" id="BgFlip" name="Flip image" run-time="1">
+            <Value>0</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;4;2</Domain>
+            <Layout catalog="kernel" class-id="combo">none;vertical (Y axis);horizontal (X axis);vertical &amp; horizontal (both axis)</Layout>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="int" description="Texture image filter ('Point', 'Linear') used when the texture is scaled. 'Point' mode approximate the pixel color with the color of nearest point, 'Linear' mode do a linear interpolation of neigthbour pixels colors." design-time="1" enabled="1" group_index="0" id="filtering" name="Filter" run-time="1">
+            <Value>1</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;2;2</Domain>
+            <Layout catalog="kernel" class-id="combo">"Point";"Linear"</Layout>
+            <InitInfo/>
+          </Parameter>
+        </Parameters>
+        <Inputs>
+          <Input catalog="base" class-id="image" description="Image to display." group_index="0" id="InputImage" name="Image" read-write="1" required_for_execution="1" required_for_initialization="1">
+            <RequiredInterfaces/>
+          </Input>
+        </Inputs>
+        <Outputs/>
+        <PrivateData/>
+      </Block>
+      <Block active="1" catalog="kernel" class-id="switch" id="81626" label="Switch_3" log_info="2" run_level="1" sync-in_mode="1">
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Appearance.Pos">560;1320</Property>
+            <Property name="Private.ZOrder">11</Property>
+            <Property name="Private.ObjID">162</Property>
+            <Property name="Appearance.Size">64;64</Property>
+            <Property name="Appearance.Orientation">1</Property>
+            <Property name="Private.ExportedParams">condition;</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ParamsOrder">kernel::active_status;kernel::active_trigger;kernel::run_level;kernel::sync_in_mode;kernel::log_level;condition;num_inputs;toggle;open;close;update</Property>
+            <Property name="Private.FullPath">Switch (FlowAndControlStructures)</Property>
+            <Property name="DisplaySyncInVisible">0</Property>
+            <Property name="DisplaySyncOutVisible">0</Property>
+          </PropertySet>
+        </Properties>
+        <Parameters>
+          <Parameter catalog="kernel" class-id="int" description="Specifies whether the channel is opened or closed, i.e., if inputs are propagated to the output or not." design-time="1" enabled="1" group_index="0" id="condition" name="Status" run-time="1">
+            <Value>0</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;2;2</Domain>
+            <Layout catalog="kernel" class-id="combo">Opened;Closed</Layout>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="int" description="The number of inputs of the block" design-time="1" enabled="1" group_index="0" id="num_inputs" name="Number Of Inputs" run-time="0">
+            <Value>1</Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="trigger" description="Switch the state of the block. If it's opened it close it, otherwise it open it." design-time="1" enabled="1" group_index="0" id="toggle" name="Toggle status" run-time="1">
+            <Value></Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="trigger" description="Open the switch." design-time="1" enabled="1" group_index="0" id="open" name="Open" run-time="1">
+            <Value></Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="trigger" description="Close the switch." design-time="1" enabled="1" group_index="0" id="close" name="Close" run-time="1">
+            <Value></Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="bool" description="Specify whether the block icon changes at runtime. If yes and the block is actived very quickly the EyesWeb GUI can freeze." design-time="1" enabled="1" group_index="0" id="update" name="Update Icon" run-time="1">
+            <Value>0</Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+        </Parameters>
+        <Inputs>
+          <Input catalog="kernel" class-id="generic_datatype" description="It is propagated to the output only if condition is true." group_index="0" id="input" name="Input" read-write="1" required_for_execution="1" required_for_initialization="1">
+            <RequiredInterfaces/>
+          </Input>
+        </Inputs>
+        <Outputs>
+          <Output catalog="kernel" class-id="generic_datatype" description="It is generated only if condition is true." group_index="0" id="output" inherited-id="input" inplace-id="" name="Output"/>
+        </Outputs>
+        <PrivateData/>
+      </Block>
+      <Block active="1" catalog="system" class-id="GlImageDisplay" id="86404" label="DisplayOpenGL_8" log_info="2" run_level="1" sync-in_mode="1" window_docked="1" window_fit_mode="1" window_full_screen="0" window_full_screen_monitor_index="0" window_horizontal_scroll_pos="0" window_keep_aspect_ratio="1" window_rect_height="0" window_rect_width="0" window_rect_x="0" window_rect_y="0" window_refresh_rate_max_frequency="25" window_refresh_rate_min_interval="400000" window_refresh_rate_mode="0" window_title="DisplayOpenGL" window_title_bar_visible="1" window_vertical_scroll_pos="0" window_zoom="0.19965277777777776">
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Appearance.Pos">830;1350</Property>
+            <Property name="Private.ZOrder">5</Property>
+            <Property name="Private.ObjID">169</Property>
+            <Property name="Appearance.Size">180;130</Property>
+            <Property name="Appearance.Orientation">1</Property>
+            <Property name="Private.ExportedParams"></Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ParamsOrder">kernel::active_status;kernel::active_trigger;kernel::run_level;kernel::sync_in_mode;kernel::log_level;QueueAlgo;QueueMaxSize;QueuePurge;ParamOutputQueueStatus;ParamOutputMouseMode;BgFlip;filtering;kernel::window_title;kernel::window_rect_x;kernel::window_rect_y;kernel::window_rect_width;kernel::window_rect_height;kernel::window_docked;kernel::window_full_screen;kernel::window_full_screen_monitor_index;kernel::window_zoom;kernel::window_keep_aspect_ratio;kernel::window_horizontal_scroll_pos;kernel::window_vertical_scroll_pos;kernel::window_title_visible;kernel::window_refresh_rate_mode;kernel::window_refresh_rate_min_interval;kernel::window_refresh_rate_max_frequency;kernel::fit_mode</Property>
+            <Property name="Private.FullPath">DisplayOpenGL (ImageAndVideo.Output)</Property>
+            <Property name="DisplaySyncInVisible">0</Property>
+            <Property name="DisplaySyncOutVisible">0</Property>
+          </PropertySet>
+        </Properties>
+        <Parameters>
+          <Parameter catalog="kernel" class-id="int" description="To respect the image presentation time this display use a ordered queue. This parameter selects the algorithm used to manage the presentation time ('ignore', 'respect'). When 'ignore' is selected the input image is displayed immediately (bypassing the queue), otherwise the image is stored into the queue and is displayed when the clock time matches the presentation time." design-time="1" enabled="1" group_index="0" id="QueueAlgo" name="Presentation time" run-time="1">
+            <Value>0</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;2;2</Domain>
+            <Layout catalog="kernel" class-id="combo">ignore the presentation time;respect the presentation time</Layout>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="int" description="This parameter set the maximum number of images stored into the internal queue." design-time="1" enabled="1" group_index="0" id="QueueMaxSize" name="Queue max size" run-time="1">
+            <Value>25</Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="trigger" description="Drop all images contained into the internal queue." design-time="1" enabled="1" group_index="0" id="QueuePurge" name="Purge queue" run-time="1">
+            <Value></Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="bool" description="Output the internal queue status (number of image into the queue, number of image skipped in the last execution cycle)." design-time="1" enabled="1" group_index="0" id="ParamOutputQueueStatus" name="Output queue status" run-time="0">
+            <Value>0</Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="int" description="This parameter enable, disable and select the Output mode of mouse click position." design-time="1" enabled="1" group_index="0" id="ParamOutputMouseMode" name="Mouse handling" run-time="0">
+            <Value>0</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;4;2</Domain>
+            <Layout catalog="kernel" class-id="combo">none;output position;output click position;output selection rectangle</Layout>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="int" description="Flip image over Y (flipping), X (flopping) or both axis." design-time="1" enabled="1" group_index="0" id="BgFlip" name="Flip image" run-time="1">
+            <Value>0</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;4;2</Domain>
+            <Layout catalog="kernel" class-id="combo">none;vertical (Y axis);horizontal (X axis);vertical &amp; horizontal (both axis)</Layout>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="int" description="Texture image filter ('Point', 'Linear') used when the texture is scaled. 'Point' mode approximate the pixel color with the color of nearest point, 'Linear' mode do a linear interpolation of neigthbour pixels colors." design-time="1" enabled="1" group_index="0" id="filtering" name="Filter" run-time="1">
+            <Value>1</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;2;2</Domain>
+            <Layout catalog="kernel" class-id="combo">"Point";"Linear"</Layout>
+            <InitInfo/>
+          </Parameter>
+        </Parameters>
+        <Inputs>
+          <Input catalog="base" class-id="image" description="Image to display." group_index="0" id="InputImage" name="Image" read-write="1" required_for_execution="1" required_for_initialization="1">
+            <RequiredInterfaces/>
+          </Input>
+        </Inputs>
+        <Outputs/>
+        <PrivateData/>
+      </Block>
+      <Block active="1" catalog="kernel" class-id="scalar_arith_op_double" id="143630" label="ScalarArithmeticOperation - double_3" log_info="2" run_level="1" sync-in_mode="1">
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Appearance.Pos">450;1440</Property>
+            <Property name="Private.ZOrder">3</Property>
+            <Property name="Private.ObjID">172</Property>
+            <Property name="Appearance.Size">64;64</Property>
+            <Property name="Appearance.Orientation">3</Property>
+            <Property name="Private.ExportedParams">scalar_value;</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ParamsOrder">kernel::active_status;kernel::active_trigger;kernel::run_level;kernel::sync_in_mode;kernel::log_level;op_type;scalar_value</Property>
+            <Property name="Private.FullPath">ScalarArithmeticOperation - double (Operations)</Property>
+            <Property name="DisplaySyncInVisible">0</Property>
+            <Property name="DisplaySyncOutVisible">0</Property>
+          </PropertySet>
+        </Properties>
+        <Parameters>
+          <Parameter catalog="kernel" class-id="int" description="Select the type of operation that will be performed on the input datatype." design-time="1" enabled="1" group_index="0" id="op_type" name="Operation type" run-time="1">
+            <Value>3</Value>
+            <Domain catalog="kernel" class-id="int-domain">0;1;9;2</Domain>
+            <Layout catalog="kernel" class-id="combo">Sum;Subtract;Subtract inverse;Multiply;Divide;Divide inverse;Max;Min;Set value</Layout>
+            <InitInfo/>
+          </Parameter>
+          <Parameter catalog="kernel" class-id="double" description="Specifies the scalar value involved in the operation." design-time="1" enabled="1" group_index="0" id="scalar_value" name="Scalar value" run-time="1">
+            <Value>1</Value>
+            <Domain/>
+            <Layout/>
+            <InitInfo/>
+          </Parameter>
+        </Parameters>
+        <Inputs>
+          <Input catalog="kernel" class-id="generic_datatype" description="This input represent the operand involved in the operation with the scalar value." group_index="0" id="input" name="Input" read-write="0" required_for_execution="1" required_for_initialization="1">
+            <RequiredInterfaces>
+              <RequiredInterface catalog="kernel" class-id="scalar_arith_op_double"/>
+            </RequiredInterfaces>
+          </Input>
+        </Inputs>
+        <Outputs>
+          <Output catalog="kernel" class-id="generic_datatype" description="Block output. It contains the result of the specified operation." group_index="0" id="output" inherited-id="" inplace-id="input" name="Output"/>
+        </Outputs>
+        <PrivateData/>
+      </Block>
     </Blocks>
     <PatchPins>
-      <PatchPin id="6139" name="RGB_image">
+      <PatchPin id="6251" name="RGB_image">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">530;540</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">140</Property>
-            <Property name="Private.ObjID">47</Property>
+            <Property name="Private.ZOrder">143</Property>
+            <Property name="Private.ObjID">48</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">34;56</Property>
             <Property name="Appearance.FillColor">255; 173; 91</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6140" name="blob">
+      <PatchPin id="6252" name="blob">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">820;310</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">136</Property>
-            <Property name="Private.ObjID">48</Property>
+            <Property name="Private.ZOrder">139</Property>
+            <Property name="Private.ObjID">49</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">38;88</Property>
             <Property name="Appearance.FillColor">192; 255; 255</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6141" name="silhouette">
+      <PatchPin id="6253" name="silhouette">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">1000;320</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">135</Property>
-            <Property name="Private.ObjID">49</Property>
+            <Property name="Private.ZOrder">138</Property>
+            <Property name="Private.ObjID">50</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">32;64</Property>
             <Property name="Appearance.FillColor">50; 205; 50</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6142" name="blob">
+      <PatchPin id="6254" name="blob">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">380;1060</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">131</Property>
-            <Property name="Private.ObjID">50</Property>
+            <Property name="Private.ZOrder">134</Property>
+            <Property name="Private.ObjID">51</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">38;88</Property>
             <Property name="Appearance.FillColor">192; 255; 255</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6143" name="silhouette">
+      <PatchPin id="6255" name="silhouette">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">780;1010</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">128</Property>
-            <Property name="Private.ObjID">51</Property>
-            <Property name="Appearance.Orientation">1</Property>
-            <Property name="Appearance.Size">32;64</Property>
-            <Property name="Appearance.FillColor">50; 205; 50</Property>
-          </PropertySet>
-        </Properties>
-      </PatchPin>
-      <PatchPin id="6144" name="silhouette">
-        <Properties>
-          <PropertySet name="gui-mdi">
-            <Property name="GuiObjectType">PatchPin</Property>
-            <Property name="Appearance.Pos">580;1580</Property>
-            <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">127</Property>
+            <Property name="Private.ZOrder">131</Property>
             <Property name="Private.ObjID">52</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">32;64</Property>
@@ -6726,13 +6874,13 @@
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6145" name="silhouette">
+      <PatchPin id="6256" name="silhouette">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
-            <Property name="Appearance.Pos">1320;660</Property>
+            <Property name="Appearance.Pos">580;1580</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">117</Property>
+            <Property name="Private.ZOrder">130</Property>
             <Property name="Private.ObjID">53</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">32;64</Property>
@@ -6740,98 +6888,112 @@
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6146" name="RGB_image">
+      <PatchPin id="6257" name="silhouette">
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="GuiObjectType">PatchPin</Property>
+            <Property name="Appearance.Pos">1320;660</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ZOrder">120</Property>
+            <Property name="Private.ObjID">54</Property>
+            <Property name="Appearance.Orientation">1</Property>
+            <Property name="Appearance.Size">32;64</Property>
+            <Property name="Appearance.FillColor">50; 205; 50</Property>
+          </PropertySet>
+        </Properties>
+      </PatchPin>
+      <PatchPin id="6258" name="RGB_image">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">1320;580</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">116</Property>
-            <Property name="Private.ObjID">54</Property>
+            <Property name="Private.ZOrder">119</Property>
+            <Property name="Private.ObjID">55</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">34;56</Property>
             <Property name="Appearance.FillColor">255; 173; 91</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6147" name="blob">
+      <PatchPin id="6259" name="blob">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">570;1880</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">106</Property>
-            <Property name="Private.ObjID">55</Property>
+            <Property name="Private.ZOrder">109</Property>
+            <Property name="Private.ObjID">56</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">38;88</Property>
             <Property name="Appearance.FillColor">192; 255; 255</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6148" name="MI">
+      <PatchPin id="6260" name="MI">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">990;2010</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">103</Property>
-            <Property name="Private.ObjID">56</Property>
+            <Property name="Private.ZOrder">106</Property>
+            <Property name="Private.ObjID">57</Property>
             <Property name="Appearance.Orientation">2</Property>
             <Property name="Appearance.Size">32;32</Property>
             <Property name="Appearance.FillColor">220; 220; 220</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6149" name="silhouette">
+      <PatchPin id="6261" name="silhouette">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">380;1280</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">36</Property>
-            <Property name="Private.ObjID">57</Property>
+            <Property name="Private.ZOrder">39</Property>
+            <Property name="Private.ObjID">58</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">32;64</Property>
             <Property name="Appearance.FillColor">50; 205; 50</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6150" name="segmentation">
+      <PatchPin id="6262" name="segmentation">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">1530;2140</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">27</Property>
-            <Property name="Private.ObjID">58</Property>
+            <Property name="Private.ZOrder">30</Property>
+            <Property name="Private.ObjID">59</Property>
             <Property name="Appearance.Orientation">2</Property>
             <Property name="Appearance.Size">80;32</Property>
             <Property name="Appearance.FillColor">220; 220; 220</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6151" name="silhouette">
+      <PatchPin id="6263" name="silhouette">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
             <Property name="Appearance.Pos">640;1180</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">22</Property>
-            <Property name="Private.ObjID">59</Property>
+            <Property name="Private.ZOrder">25</Property>
+            <Property name="Private.ObjID">60</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">32;64</Property>
             <Property name="Appearance.FillColor">50; 205; 50</Property>
           </PropertySet>
         </Properties>
       </PatchPin>
-      <PatchPin id="6152" name="segmentation">
+      <PatchPin id="6264" name="segmentation">
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="GuiObjectType">PatchPin</Property>
-            <Property name="Appearance.Pos">220;1150</Property>
+            <Property name="Appearance.Pos">220;1180</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">18</Property>
-            <Property name="Private.ObjID">60</Property>
+            <Property name="Private.ZOrder">22</Property>
+            <Property name="Private.ObjID">61</Property>
             <Property name="Appearance.Orientation">2</Property>
             <Property name="Appearance.Size">80;32</Property>
             <Property name="Appearance.FillColor">220; 220; 220</Property>
@@ -6846,8 +7008,8 @@
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">1350;1770</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">51</Property>
-            <Property name="Private.ObjID">128</Property>
+            <Property name="Private.ZOrder">54</Property>
+            <Property name="Private.ObjID">129</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">192;260</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -6876,8 +7038,8 @@ Live Webcam:
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">1050;1980</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">50</Property>
-            <Property name="Private.ObjID">129</Property>
+            <Property name="Private.ZOrder">53</Property>
+            <Property name="Private.ObjID">130</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">170;50</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -6900,8 +7062,8 @@ Live Webcam:
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">1140;2070</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">49</Property>
-            <Property name="Private.ObjID">130</Property>
+            <Property name="Private.ZOrder">52</Property>
+            <Property name="Private.ObjID">131</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">140;50</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -6923,8 +7085,8 @@ Live Webcam:
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">910;1780</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">48</Property>
-            <Property name="Private.ObjID">131</Property>
+            <Property name="Private.ZOrder">51</Property>
+            <Property name="Private.ObjID">132</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">140;50</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -6946,8 +7108,8 @@ Live Webcam:
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">1130;1780</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">47</Property>
-            <Property name="Private.ObjID">132</Property>
+            <Property name="Private.ZOrder">50</Property>
+            <Property name="Private.ObjID">133</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">160;50</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -6969,8 +7131,8 @@ Live Webcam:
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">1050;1530</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">46</Property>
-            <Property name="Private.ObjID">133</Property>
+            <Property name="Private.ZOrder">49</Property>
+            <Property name="Private.ObjID">134</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">260;40</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -6992,8 +7154,8 @@ Live Webcam:
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">820;2180</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">45</Property>
-            <Property name="Private.ObjID">134</Property>
+            <Property name="Private.ZOrder">48</Property>
+            <Property name="Private.ObjID">135</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">200;40</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7015,8 +7177,8 @@ Live Webcam:
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">840;2270</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">44</Property>
-            <Property name="Private.ObjID">135</Property>
+            <Property name="Private.ZOrder">47</Property>
+            <Property name="Private.ObjID">136</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">150;50</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7038,8 +7200,8 @@ Live Webcam:
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">610;1140</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">43</Property>
-            <Property name="Private.ObjID">136</Property>
+            <Property name="Private.ZOrder">46</Property>
+            <Property name="Private.ObjID">137</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">170;50</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7061,8 +7223,8 @@ Live Webcam:
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">410;990</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">42</Property>
-            <Property name="Private.ObjID">137</Property>
+            <Property name="Private.ZOrder">45</Property>
+            <Property name="Private.ObjID">138</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">240;110</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7085,8 +7247,8 @@ Trail generated from previous 12 frames.</Property>
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">880;850</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">41</Property>
-            <Property name="Private.ObjID">138</Property>
+            <Property name="Private.ZOrder">44</Property>
+            <Property name="Private.ObjID">139</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">170;50</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7108,8 +7270,8 @@ Trail generated from previous 12 frames.</Property>
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">350;40</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">40</Property>
-            <Property name="Private.ObjID">139</Property>
+            <Property name="Private.ZOrder">43</Property>
+            <Property name="Private.ObjID">140</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">560;180</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7133,8 +7295,8 @@ Created by Ceccoli Gianluca</Property>
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">630;380</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">39</Property>
-            <Property name="Private.ObjID">140</Property>
+            <Property name="Private.ZOrder">42</Property>
+            <Property name="Private.ObjID">141</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">150;60</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7156,8 +7318,8 @@ Created by Ceccoli Gianluca</Property>
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">580;1380</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">7</Property>
-            <Property name="Private.ObjID">141</Property>
+            <Property name="Private.ZOrder">17</Property>
+            <Property name="Private.ObjID">142</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">170;50</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7179,8 +7341,8 @@ Created by Ceccoli Gianluca</Property>
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">40;1220</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">6</Property>
-            <Property name="Private.ObjID">142</Property>
+            <Property name="Private.ZOrder">16</Property>
+            <Property name="Private.ObjID">143</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">210;300</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7204,8 +7366,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="GuiObjectType">Label</Property>
             <Property name="Appearance.Pos">1710;2090</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">5</Property>
-            <Property name="Private.ObjID">143</Property>
+            <Property name="Private.ZOrder">15</Property>
+            <Property name="Private.ObjID">144</Property>
             <Property name="Appearance.Orientation">1</Property>
             <Property name="Appearance.Size">220;50</Property>
             <Property name="Appearance.FillColor">255; 255; 255</Property>
@@ -7224,7 +7386,7 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
     </CustomObjects>
     <Links>
       <Link>
-        <Pin patchpin="6140" type="source"/>
+        <Pin patchpin="6252" type="source"/>
         <Pin block="1251" id="Input_blob" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7234,14 +7396,14 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">133</Property>
-            <Property name="Private.ObjID">61</Property>
+            <Property name="Private.ZOrder">136</Property>
+            <Property name="Private.ObjID">62</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
         <Pin block="1251" id="Output_Image" type="source"/>
-        <Pin patchpin="6141" type="target"/>
+        <Pin patchpin="6253" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Private.SrcPinDelta">0;0</Property>
@@ -7250,13 +7412,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">0</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">132</Property>
-            <Property name="Private.ObjID">62</Property>
+            <Property name="Private.ZOrder">135</Property>
+            <Property name="Private.ObjID">63</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6144" type="source"/>
+        <Pin patchpin="6256" type="source"/>
         <Pin block="3137" id="input" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7266,8 +7428,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">125</Property>
-            <Property name="Private.ObjID">63</Property>
+            <Property name="Private.ZOrder">128</Property>
+            <Property name="Private.ObjID">64</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7282,8 +7444,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">123</Property>
-            <Property name="Private.ObjID">64</Property>
+            <Property name="Private.ZOrder">126</Property>
+            <Property name="Private.ObjID">65</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7298,13 +7460,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">107</Property>
-            <Property name="Private.ObjID">65</Property>
+            <Property name="Private.ZOrder">110</Property>
+            <Property name="Private.ObjID">66</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6147" type="source"/>
+        <Pin patchpin="6259" type="source"/>
         <Pin block="4234" id="input_blob" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7314,8 +7476,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">102</Property>
-            <Property name="Private.ObjID">66</Property>
+            <Property name="Private.ZOrder">105</Property>
+            <Property name="Private.ObjID">67</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7330,8 +7492,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">94</Property>
-            <Property name="Private.ObjID">67</Property>
+            <Property name="Private.ZOrder">97</Property>
+            <Property name="Private.ObjID">68</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7346,8 +7508,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">90</Property>
-            <Property name="Private.ObjID">68</Property>
+            <Property name="Private.ZOrder">93</Property>
+            <Property name="Private.ObjID">69</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7362,13 +7524,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">91</Property>
-            <Property name="Private.ObjID">69</Property>
+            <Property name="Private.ZOrder">94</Property>
+            <Property name="Private.ObjID">70</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6146" type="source"/>
+        <Pin patchpin="6258" type="source"/>
         <Pin block="3524" id="input_1" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7380,13 +7542,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1420;612</Property>
             <Property name="Private.Pin_1">1420;644.5</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">87</Property>
-            <Property name="Private.ObjID">70</Property>
+            <Property name="Private.ZOrder">90</Property>
+            <Property name="Private.ObjID">71</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6145" type="source"/>
+        <Pin patchpin="6257" type="source"/>
         <Pin block="3524" id="input_2" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7398,8 +7560,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1420;696</Property>
             <Property name="Private.Pin_1">1420;659.5</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">86</Property>
-            <Property name="Private.ObjID">71</Property>
+            <Property name="Private.ZOrder">89</Property>
+            <Property name="Private.ObjID">72</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7416,8 +7578,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1570;652</Property>
             <Property name="Private.Pin_1">1570;675</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">85</Property>
-            <Property name="Private.ObjID">72</Property>
+            <Property name="Private.ZOrder">88</Property>
+            <Property name="Private.ObjID">73</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7434,8 +7596,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1080;947</Property>
             <Property name="Private.Pin_1">1080;1014.5</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">84</Property>
-            <Property name="Private.ObjID">73</Property>
+            <Property name="Private.ZOrder">87</Property>
+            <Property name="Private.ObjID">74</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7452,8 +7614,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1080;1062</Property>
             <Property name="Private.Pin_1">1080;1029.5</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">83</Property>
-            <Property name="Private.ObjID">74</Property>
+            <Property name="Private.ZOrder">86</Property>
+            <Property name="Private.ObjID">75</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7470,8 +7632,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">930;1094.5</Property>
             <Property name="Private.Pin_1">930;1175</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">82</Property>
-            <Property name="Private.ObjID">75</Property>
+            <Property name="Private.ZOrder">85</Property>
+            <Property name="Private.ObjID">76</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7489,8 +7651,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_1">350;990</Property>
             <Property name="Private.Pin_2">670;990</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">81</Property>
-            <Property name="Private.ObjID">76</Property>
+            <Property name="Private.ZOrder">84</Property>
+            <Property name="Private.ObjID">77</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7507,8 +7669,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1570;652</Property>
             <Property name="Private.Pin_1">1570;1037</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">80</Property>
-            <Property name="Private.ObjID">77</Property>
+            <Property name="Private.ZOrder">83</Property>
+            <Property name="Private.ObjID">78</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7525,8 +7687,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1190;1022</Property>
             <Property name="Private.Pin_1">1190;885</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">79</Property>
-            <Property name="Private.ObjID">78</Property>
+            <Property name="Private.ZOrder">82</Property>
+            <Property name="Private.ObjID">79</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7543,8 +7705,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">910;1602</Property>
             <Property name="Private.Pin_1">910;1755</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">78</Property>
-            <Property name="Private.ObjID">79</Property>
+            <Property name="Private.ZOrder">81</Property>
+            <Property name="Private.ObjID">80</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7561,8 +7723,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1360;1602</Property>
             <Property name="Private.Pin_1">1360;1634.5</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">77</Property>
-            <Property name="Private.ObjID">80</Property>
+            <Property name="Private.ZOrder">80</Property>
+            <Property name="Private.ObjID">81</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7579,8 +7741,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1360;1692</Property>
             <Property name="Private.Pin_1">1360;1649.5</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">76</Property>
-            <Property name="Private.ObjID">81</Property>
+            <Property name="Private.ZOrder">79</Property>
+            <Property name="Private.ObjID">82</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7597,8 +7759,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">950;1602</Property>
             <Property name="Private.Pin_1">950;1692</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">75</Property>
-            <Property name="Private.ObjID">82</Property>
+            <Property name="Private.ZOrder">78</Property>
+            <Property name="Private.ObjID">83</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7615,8 +7777,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1520;1022</Property>
             <Property name="Private.Pin_1">1520;1052</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">74</Property>
-            <Property name="Private.ObjID">83</Property>
+            <Property name="Private.ZOrder">77</Property>
+            <Property name="Private.ObjID">84</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7633,8 +7795,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1520;1642</Property>
             <Property name="Private.Pin_1">1520;1067</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">73</Property>
-            <Property name="Private.ObjID">84</Property>
+            <Property name="Private.ZOrder">76</Property>
+            <Property name="Private.ObjID">85</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7651,8 +7813,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1520;1642</Property>
             <Property name="Private.Pin_1">1520;1430</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">72</Property>
-            <Property name="Private.ObjID">85</Property>
+            <Property name="Private.ZOrder">75</Property>
+            <Property name="Private.ObjID">86</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7669,8 +7831,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">760;1914.5</Property>
             <Property name="Private.Pin_1">760;1942</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">71</Property>
-            <Property name="Private.ObjID">86</Property>
+            <Property name="Private.ZOrder">74</Property>
+            <Property name="Private.ObjID">87</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7685,8 +7847,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">70</Property>
-            <Property name="Private.ObjID">87</Property>
+            <Property name="Private.ZOrder">73</Property>
+            <Property name="Private.ObjID">88</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7703,8 +7865,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1140;1942</Property>
             <Property name="Private.Pin_1">1140;1852</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">69</Property>
-            <Property name="Private.ObjID">88</Property>
+            <Property name="Private.ZOrder">72</Property>
+            <Property name="Private.ObjID">89</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7720,8 +7882,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">1100;1576</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">68</Property>
-            <Property name="Private.ObjID">89</Property>
+            <Property name="Private.ZOrder">71</Property>
+            <Property name="Private.ObjID">90</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7739,14 +7901,14 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_1">1340;1540</Property>
             <Property name="Private.Pin_2">1302;1540</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">67</Property>
-            <Property name="Private.ObjID">90</Property>
+            <Property name="Private.ZOrder">70</Property>
+            <Property name="Private.ObjID">91</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
         <Pin block="4304" id="FIROutput" type="source"/>
-        <Pin patchpin="6148" type="target"/>
+        <Pin patchpin="6260" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Private.SrcPinDelta">0;0</Property>
@@ -7756,8 +7918,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">996;1942</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">66</Property>
-            <Property name="Private.ObjID">91</Property>
+            <Property name="Private.ZOrder">69</Property>
+            <Property name="Private.ObjID">92</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7773,8 +7935,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">904;2036</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">65</Property>
-            <Property name="Private.ObjID">92</Property>
+            <Property name="Private.ZOrder">68</Property>
+            <Property name="Private.ObjID">93</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7790,13 +7952,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">934;2036</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">64</Property>
-            <Property name="Private.ObjID">93</Property>
+            <Property name="Private.ZOrder">67</Property>
+            <Property name="Private.ObjID">94</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6148" type="source"/>
+        <Pin patchpin="6260" type="source"/>
         <Pin block="4599" id="input" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7807,13 +7969,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">996;2152</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">63</Property>
-            <Property name="Private.ObjID">94</Property>
+            <Property name="Private.ZOrder">66</Property>
+            <Property name="Private.ObjID">95</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6148" type="source"/>
+        <Pin patchpin="6260" type="source"/>
         <Pin block="4599" id="lower_value" target_type="parameter" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7825,8 +7987,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">996;2080</Property>
             <Property name="Private.Pin_1">919;2080</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">62</Property>
-            <Property name="Private.ObjID">95</Property>
+            <Property name="Private.ZOrder">65</Property>
+            <Property name="Private.ObjID">96</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7843,13 +8005,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">790;2152</Property>
             <Property name="Private.Pin_1">790;2342</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">61</Property>
-            <Property name="Private.ObjID">96</Property>
+            <Property name="Private.ZOrder">64</Property>
+            <Property name="Private.ObjID">97</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6148" type="source"/>
+        <Pin patchpin="6260" type="source"/>
         <Pin block="4376" id="input_1" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7860,8 +8022,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">1010;2241</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">60</Property>
-            <Property name="Private.ObjID">97</Property>
+            <Property name="Private.ZOrder">63</Property>
+            <Property name="Private.ObjID">98</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7878,13 +8040,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">950;916</Property>
             <Property name="Private.Pin_1">950;962</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">59</Property>
-            <Property name="Private.ObjID">98</Property>
+            <Property name="Private.ZOrder">62</Property>
+            <Property name="Private.ObjID">99</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6143" type="source"/>
+        <Pin patchpin="6255" type="source"/>
         <Pin block="3083" id="input_1" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7896,13 +8058,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">830;1044</Property>
             <Property name="Private.Pin_1">830;1094.5</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">58</Property>
-            <Property name="Private.ObjID">99</Property>
+            <Property name="Private.ZOrder">61</Property>
+            <Property name="Private.ObjID">100</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6139" type="source"/>
+        <Pin patchpin="6251" type="source"/>
         <Pin block="5223" id="input_image" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -7914,14 +8076,14 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">580;560</Property>
             <Property name="Private.Pin_1">580;650</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">57</Property>
-            <Property name="Private.ObjID">100</Property>
+            <Property name="Private.ZOrder">60</Property>
+            <Property name="Private.ObjID">101</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
         <Pin block="21" id="video_output" type="source"/>
-        <Pin patchpin="6139" type="target"/>
+        <Pin patchpin="6251" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Private.SrcPinDelta">0;0</Property>
@@ -7932,8 +8094,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">500;484.5</Property>
             <Property name="Private.Pin_1">500;576</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">55</Property>
-            <Property name="Private.ObjID">101</Property>
+            <Property name="Private.ZOrder">58</Property>
+            <Property name="Private.ObjID">102</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7950,8 +8112,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">900;1942</Property>
             <Property name="Private.Pin_1">900;1852</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">52</Property>
-            <Property name="Private.ObjID">102</Property>
+            <Property name="Private.ZOrder">55</Property>
+            <Property name="Private.ObjID">103</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -7967,14 +8129,14 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">500;482</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">54</Property>
-            <Property name="Private.ObjID">103</Property>
+            <Property name="Private.ZOrder">57</Property>
+            <Property name="Private.ObjID">104</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
         <Pin block="253" id="TrackMultipleBlobs_1::output::blob_0" type="source"/>
-        <Pin patchpin="6140" type="target"/>
+        <Pin patchpin="6252" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Private.SrcPinDelta">0;0</Property>
@@ -7985,8 +8147,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">770;482</Property>
             <Property name="Private.Pin_1">770;360</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">56</Property>
-            <Property name="Private.ObjID">104</Property>
+            <Property name="Private.ZOrder">59</Property>
+            <Property name="Private.ObjID">105</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -8002,13 +8164,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">610;426</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">137</Property>
-            <Property name="Private.ObjID">105</Property>
+            <Property name="Private.ZOrder">140</Property>
+            <Property name="Private.ObjID">106</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6141" type="source"/>
+        <Pin patchpin="6253" type="source"/>
         <Pin block="157" id="input_image" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -8018,13 +8180,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">38</Property>
-            <Property name="Private.ObjID">106</Property>
+            <Property name="Private.ZOrder">41</Property>
+            <Property name="Private.ObjID">107</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6149" type="source"/>
+        <Pin patchpin="6261" type="source"/>
         <Pin block="5404" id="input_1" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -8034,13 +8196,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">35</Property>
-            <Property name="Private.ObjID">107</Property>
+            <Property name="Private.ZOrder">38</Property>
+            <Property name="Private.ObjID">108</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6142" type="source"/>
+        <Pin patchpin="6254" type="source"/>
         <Pin block="1310" id="Queue_1::input::input" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -8050,13 +8212,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">34</Property>
-            <Property name="Private.ObjID">108</Property>
+            <Property name="Private.ZOrder">37</Property>
+            <Property name="Private.ObjID">109</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6148" type="source"/>
+        <Pin patchpin="6260" type="source"/>
         <Pin block="5510" id="input" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -8069,8 +8231,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_1">1400;2070</Property>
             <Property name="Private.Pin_2">1400;2102</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">31</Property>
-            <Property name="Private.ObjID">109</Property>
+            <Property name="Private.ZOrder">34</Property>
+            <Property name="Private.ObjID">110</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -8086,8 +8248,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">1450;2036</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">29</Property>
-            <Property name="Private.ObjID">110</Property>
+            <Property name="Private.ZOrder">32</Property>
+            <Property name="Private.ObjID">111</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -8103,14 +8265,14 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">1465;2036</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">28</Property>
-            <Property name="Private.ObjID">111</Property>
+            <Property name="Private.ZOrder">31</Property>
+            <Property name="Private.ObjID">112</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
         <Pin block="5510" id="output" type="source"/>
-        <Pin patchpin="6150" type="target"/>
+        <Pin patchpin="6262" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Private.SrcPinDelta">0;0</Property>
@@ -8120,13 +8282,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">1560;2102</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">26</Property>
-            <Property name="Private.ObjID">112</Property>
+            <Property name="Private.ZOrder">29</Property>
+            <Property name="Private.ObjID">113</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6150" type="source"/>
+        <Pin patchpin="6262" type="source"/>
         <Pin block="5615" id="input_1" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -8137,13 +8299,13 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.NumPins">1</Property>
             <Property name="Private.Pin_0">1560;2261</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">24</Property>
-            <Property name="Private.ObjID">113</Property>
+            <Property name="Private.ZOrder">27</Property>
+            <Property name="Private.ObjID">114</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6151" type="source"/>
+        <Pin patchpin="6263" type="source"/>
         <Pin block="5838" id="input_1" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
@@ -8153,50 +8315,14 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">0</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">21</Property>
-            <Property name="Private.ObjID">114</Property>
-          </PropertySet>
-        </Properties>
-      </Link>
-      <Link>
-        <Pin block="5459" id="output" type="source"/>
-        <Pin block="5404" id="input_2" target_type="input" type="target"/>
-        <Properties>
-          <PropertySet name="gui-mdi">
-            <Property name="Private.SrcPinDelta">0;0</Property>
-            <Property name="Private.SrcPinNdx">-1</Property>
-            <Property name="Private.DstPinDelta">0;0</Property>
-            <Property name="Private.DstPinNdx">-1</Property>
-            <Property name="Private.NumPins">4</Property>
-            <Property name="Private.Pin_0">750;1352</Property>
-            <Property name="Private.Pin_1">750;1420</Property>
-            <Property name="Private.Pin_2">420;1420</Property>
-            <Property name="Private.Pin_3">420;1342</Property>
-            <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">19</Property>
+            <Property name="Private.ZOrder">24</Property>
             <Property name="Private.ObjID">115</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin block="6041" id="Output" type="source"/>
-        <Pin block="5459" id="input" target_type="input" type="target"/>
-        <Properties>
-          <PropertySet name="gui-mdi">
-            <Property name="Private.SrcPinDelta">0;0</Property>
-            <Property name="Private.SrcPinNdx">-1</Property>
-            <Property name="Private.DstPinDelta">0;0</Property>
-            <Property name="Private.DstPinNdx">-1</Property>
-            <Property name="Private.NumPins">0</Property>
-            <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">15</Property>
-            <Property name="Private.ObjID">116</Property>
-          </PropertySet>
-        </Properties>
-      </Link>
-      <Link>
         <Pin block="5404" id="output" type="source"/>
-        <Pin block="6041" id="Input" target_type="input" type="target"/>
+        <Pin block="5838" id="input_2" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Private.SrcPinDelta">0;0</Property>
@@ -8204,69 +8330,11 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinDelta">0;0</Property>
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">2</Property>
-            <Property name="Private.Pin_0">550;1334.5</Property>
-            <Property name="Private.Pin_1">550;1352</Property>
+            <Property name="Private.Pin_0">530;1334.5</Property>
+            <Property name="Private.Pin_1">530;1279.5</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">14</Property>
+            <Property name="Private.ZOrder">21</Property>
             <Property name="Private.ObjID">117</Property>
-          </PropertySet>
-        </Properties>
-      </Link>
-      <Link>
-        <Pin block="5404" id="output" type="source"/>
-        <Pin block="5992" id="Input" target_type="input" type="target"/>
-        <Properties>
-          <PropertySet name="gui-mdi">
-            <Property name="Private.SrcPinDelta">0;0</Property>
-            <Property name="Private.SrcPinNdx">-1</Property>
-            <Property name="Private.DstPinDelta">0;0</Property>
-            <Property name="Private.DstPinNdx">-1</Property>
-            <Property name="Private.NumPins">2</Property>
-            <Property name="Private.Pin_0">540;1334.5</Property>
-            <Property name="Private.Pin_1">540;1492</Property>
-            <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">13</Property>
-            <Property name="Private.ObjID">118</Property>
-          </PropertySet>
-        </Properties>
-      </Link>
-      <Link>
-        <Pin block="5992" id="Output" type="source"/>
-        <Pin block="5404" id="input_3" target_type="input" type="target"/>
-        <Properties>
-          <PropertySet name="gui-mdi">
-            <Property name="Private.SrcPinDelta">0;0</Property>
-            <Property name="Private.SrcPinNdx">-1</Property>
-            <Property name="Private.DstPinDelta">0;0</Property>
-            <Property name="Private.DstPinNdx">-1</Property>
-            <Property name="Private.NumPins">6</Property>
-            <Property name="Private.Pin_0">370;1492</Property>
-            <Property name="Private.Pin_1">370;1390</Property>
-            <Property name="Private.Pin_2">430;1390</Property>
-            <Property name="Private.Pin_3">430;1360</Property>
-            <Property name="Private.Pin_4">450;1360</Property>
-            <Property name="Private.Pin_5">450;1357</Property>
-            <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">12</Property>
-            <Property name="Private.ObjID">119</Property>
-          </PropertySet>
-        </Properties>
-      </Link>
-      <Link>
-        <Pin patchpin="6152" type="source"/>
-        <Pin block="5992" id="Parameter" target_type="parameter" type="target"/>
-        <Properties>
-          <PropertySet name="gui-mdi">
-            <Property name="Private.SrcPinDelta">4;-2.5</Property>
-            <Property name="Private.SrcPinNdx">1</Property>
-            <Property name="Private.DstPinDelta">0;0</Property>
-            <Property name="Private.DstPinNdx">-1</Property>
-            <Property name="Private.NumPins">2</Property>
-            <Property name="Private.Pin_0">264;1440</Property>
-            <Property name="Private.Pin_1">434;1440</Property>
-            <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">11</Property>
-            <Property name="Private.ObjID">120</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -8283,8 +8351,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">1040;1264.5</Property>
             <Property name="Private.Pin_1">1040;1400</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">10</Property>
-            <Property name="Private.ObjID">121</Property>
+            <Property name="Private.ZOrder">20</Property>
+            <Property name="Private.ObjID">118</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -8301,8 +8369,8 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">800;1264.5</Property>
             <Property name="Private.Pin_1">800;1594.5</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">9</Property>
-            <Property name="Private.ObjID">122</Property>
+            <Property name="Private.ZOrder">19</Property>
+            <Property name="Private.ObjID">119</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -8319,48 +8387,31 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.Pin_0">960;1264.5</Property>
             <Property name="Private.Pin_1">960;1062</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">8</Property>
-            <Property name="Private.ObjID">123</Property>
+            <Property name="Private.ZOrder">18</Property>
+            <Property name="Private.ObjID">120</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
-        <Pin patchpin="6152" type="source"/>
-        <Pin block="6090" id="input" target_type="input" type="target"/>
+        <Pin patchpin="6264" type="source"/>
+        <Pin block="6051" id="input" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
-            <Property name="Private.SrcPinDelta">4;-2.5</Property>
+            <Property name="Private.SrcPinDelta">4;2.5</Property>
             <Property name="Private.SrcPinNdx">1</Property>
             <Property name="Private.DstPinDelta">0;0</Property>
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">1</Property>
-            <Property name="Private.Pin_0">264;1222</Property>
+            <Property name="Private.Pin_0">264;1232</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">3</Property>
-            <Property name="Private.ObjID">124</Property>
-          </PropertySet>
-        </Properties>
-      </Link>
-      <Link>
-        <Pin block="6090" id="output" type="source"/>
-        <Pin block="6041" id="Parameter" target_type="parameter" type="target"/>
-        <Properties>
-          <PropertySet name="gui-mdi">
-            <Property name="Private.SrcPinDelta">0;0</Property>
-            <Property name="Private.SrcPinNdx">-1</Property>
-            <Property name="Private.DstPinDelta">0;0</Property>
-            <Property name="Private.DstPinNdx">-1</Property>
-            <Property name="Private.NumPins">1</Property>
-            <Property name="Private.Pin_0">570;1222</Property>
-            <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">2</Property>
-            <Property name="Private.ObjID">125</Property>
+            <Property name="Private.ZOrder">13</Property>
+            <Property name="Private.ObjID">122</Property>
           </PropertySet>
         </Properties>
       </Link>
       <Link>
         <Pin block="5404" id="output" type="source"/>
-        <Pin block="5838" id="input_2" target_type="input" type="target"/>
+        <Pin block="81626" id="input" target_type="input" type="target"/>
         <Properties>
           <PropertySet name="gui-mdi">
             <Property name="Private.SrcPinDelta">0;0</Property>
@@ -8369,10 +8420,46 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.DstPinNdx">-1</Property>
             <Property name="Private.NumPins">2</Property>
             <Property name="Private.Pin_0">540;1334.5</Property>
-            <Property name="Private.Pin_1">540;1279.5</Property>
+            <Property name="Private.Pin_1">540;1352</Property>
             <Property name="Private.Selected">0</Property>
-            <Property name="Private.ZOrder">1</Property>
-            <Property name="Private.ObjID">126</Property>
+            <Property name="Private.ZOrder">10</Property>
+            <Property name="Private.ObjID">163</Property>
+          </PropertySet>
+        </Properties>
+      </Link>
+      <Link>
+        <Pin block="81626" id="output" type="source"/>
+        <Pin block="5459" id="input" target_type="input" type="target"/>
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Private.SrcPinDelta">0;0</Property>
+            <Property name="Private.SrcPinNdx">-1</Property>
+            <Property name="Private.DstPinDelta">0;0</Property>
+            <Property name="Private.DstPinNdx">-1</Property>
+            <Property name="Private.NumPins">0</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ZOrder">9</Property>
+            <Property name="Private.ObjID">164</Property>
+          </PropertySet>
+        </Properties>
+      </Link>
+      <Link>
+        <Pin block="5459" id="output" type="source"/>
+        <Pin block="5404" id="input_2" target_type="input" type="target"/>
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Private.SrcPinDelta">0;0</Property>
+            <Property name="Private.SrcPinNdx">-1</Property>
+            <Property name="Private.DstPinDelta">0;0</Property>
+            <Property name="Private.DstPinNdx">-1</Property>
+            <Property name="Private.NumPins">4</Property>
+            <Property name="Private.Pin_0">760;1352</Property>
+            <Property name="Private.Pin_1">760;1430</Property>
+            <Property name="Private.Pin_2">430;1430</Property>
+            <Property name="Private.Pin_3">430;1342</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ZOrder">8</Property>
+            <Property name="Private.ObjID">165</Property>
           </PropertySet>
         </Properties>
       </Link>
@@ -8385,13 +8472,102 @@ Triggers to inhibit paths to improve overall performances and to let the trail g
             <Property name="Private.SrcPinNdx">-1</Property>
             <Property name="Private.DstPinDelta">0;0</Property>
             <Property name="Private.DstPinNdx">-1</Property>
-            <Property name="Private.NumPins">3</Property>
+            <Property name="Private.NumPins">5</Property>
             <Property name="Private.Pin_0">350;2152</Property>
-            <Property name="Private.Pin_1">350;1260</Property>
-            <Property name="Private.Pin_2">660;1260</Property>
+            <Property name="Private.Pin_1">350;1180</Property>
+            <Property name="Private.Pin_2">600;1180</Property>
+            <Property name="Private.Pin_3">600;1290</Property>
+            <Property name="Private.Pin_4">660;1290</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ZOrder">7</Property>
+            <Property name="Private.ObjID">166</Property>
+          </PropertySet>
+        </Properties>
+      </Link>
+      <Link>
+        <Pin block="6051" id="output" type="source"/>
+        <Pin block="81626" id="condition" target_type="parameter" type="target"/>
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Private.SrcPinDelta">0;0</Property>
+            <Property name="Private.SrcPinNdx">-1</Property>
+            <Property name="Private.DstPinDelta">0;0</Property>
+            <Property name="Private.DstPinNdx">-1</Property>
+            <Property name="Private.NumPins">1</Property>
+            <Property name="Private.Pin_0">570;1232</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ZOrder">6</Property>
+            <Property name="Private.ObjID">167</Property>
+          </PropertySet>
+        </Properties>
+      </Link>
+      <Link>
+        <Pin block="5459" id="output" type="source"/>
+        <Pin block="86404" id="InputImage" target_type="input" type="target"/>
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Private.SrcPinDelta">0;0</Property>
+            <Property name="Private.SrcPinNdx">-1</Property>
+            <Property name="Private.DstPinDelta">0;0</Property>
+            <Property name="Private.DstPinNdx">-1</Property>
+            <Property name="Private.NumPins">0</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ZOrder">4</Property>
+            <Property name="Private.ObjID">170</Property>
+          </PropertySet>
+        </Properties>
+      </Link>
+      <Link>
+        <Pin patchpin="6264" type="source"/>
+        <Pin block="143630" id="scalar_value" target_type="parameter" type="target"/>
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Private.SrcPinDelta">0;0.5</Property>
+            <Property name="Private.SrcPinNdx">1</Property>
+            <Property name="Private.DstPinDelta">0;0</Property>
+            <Property name="Private.DstPinNdx">-1</Property>
+            <Property name="Private.NumPins">2</Property>
+            <Property name="Private.Pin_0">260;1420</Property>
+            <Property name="Private.Pin_1">504;1420</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ZOrder">2</Property>
+            <Property name="Private.ObjID">174</Property>
+          </PropertySet>
+        </Properties>
+      </Link>
+      <Link>
+        <Pin block="5404" id="output" type="source"/>
+        <Pin block="143630" id="input" target_type="input" type="target"/>
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Private.SrcPinDelta">0;0</Property>
+            <Property name="Private.SrcPinNdx">-1</Property>
+            <Property name="Private.DstPinDelta">0;0</Property>
+            <Property name="Private.DstPinNdx">-1</Property>
+            <Property name="Private.NumPins">2</Property>
+            <Property name="Private.Pin_0">540;1334.5</Property>
+            <Property name="Private.Pin_1">540;1472</Property>
+            <Property name="Private.Selected">0</Property>
+            <Property name="Private.ZOrder">1</Property>
+            <Property name="Private.ObjID">181</Property>
+          </PropertySet>
+        </Properties>
+      </Link>
+      <Link>
+        <Pin block="143630" id="output" type="source"/>
+        <Pin block="5404" id="input_3" target_type="input" type="target"/>
+        <Properties>
+          <PropertySet name="gui-mdi">
+            <Property name="Private.SrcPinDelta">0;0</Property>
+            <Property name="Private.SrcPinNdx">-1</Property>
+            <Property name="Private.DstPinDelta">0;0</Property>
+            <Property name="Private.DstPinNdx">-1</Property>
+            <Property name="Private.NumPins">2</Property>
+            <Property name="Private.Pin_0">420;1472</Property>
+            <Property name="Private.Pin_1">420;1357</Property>
             <Property name="Private.Selected">0</Property>
             <Property name="Private.ZOrder">0</Property>
-            <Property name="Private.ObjID">127</Property>
+            <Property name="Private.ObjID">182</Property>
           </PropertySet>
         </Properties>
       </Link>
